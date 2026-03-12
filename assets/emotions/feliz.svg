@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Pollito Feliz - Bajo tus Alas -->
+  <!-- Sombra -->
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="#E0C88A" opacity="0.3"/>
+  <!-- Cuerpo -->
+  <ellipse cx="60" cy="72" rx="32" ry="30" fill="#FFD54F"/>
+  <!-- Ala izquierda -->
+  <ellipse cx="30" cy="68" rx="14" ry="20" fill="#FFCA28" transform="rotate(-15 30 68)"/>
+  <ellipse cx="30" cy="68" rx="10" ry="16" fill="#FFD54F" transform="rotate(-15 30 68)"/>
+  <!-- Ala derecha -->
+  <ellipse cx="90" cy="68" rx="14" ry="20" fill="#FFCA28" transform="rotate(15 90 68)"/>
+  <ellipse cx="90" cy="68" rx="10" ry="16" fill="#FFD54F" transform="rotate(15 90 68)"/>
+  <!-- Cabeza -->
+  <circle cx="60" cy="42" r="24" fill="#FFD54F"/>
+  <!-- Mejillas sonrojadas -->
+  <circle cx="42" cy="48" r="6" fill="#FFAB91" opacity="0.5"/>
+  <circle cx="78" cy="48" r="6" fill="#FFAB91" opacity="0.5"/>
+  <!-- Ojos felices (arcos) -->
+  <path d="M50 40 Q53 35 56 40" stroke="#5D4037" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M64 40 Q67 35 70 40" stroke="#5D4037" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Pico sonriente -->
+  <path d="M55 50 L60 54 L65 50" fill="#FF8F00" stroke="#FF8F00" stroke-width="1" stroke-linejoin="round"/>
+  <!-- Patitas -->
+  <path d="M48 98 L44 108 M48 98 L48 108 M48 98 L52 108" stroke="#FF8F00" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M72 98 L68 108 M72 98 L72 108 M72 98 L76 108" stroke="#FF8F00" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Copete -->
+  <ellipse cx="60" cy="22" rx="4" ry="6" fill="#FFCA28"/>
+  <ellipse cx="55" cy="24" rx="3" ry="5" fill="#FFCA28" transform="rotate(-15 55 24)"/>
+  <ellipse cx="65" cy="24" rx="3" ry="5" fill="#FFCA28" transform="rotate(15 65 24)"/>
+  <!-- Corazoncito flotando -->
+  <path d="M85 25 C85 22 89 20 89 24 C89 20 93 22 93 25 C93 29 89 32 89 32 C89 32 85 29 85 25Z" fill="#E91E63" opacity="0.7"/>
+</svg>

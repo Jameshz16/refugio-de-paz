@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Pollito Agradecido - Bajo tus Alas -->
+  <!-- Brillo de fondo -->
+  <circle cx="60" cy="55" r="50" fill="#FFF9C4" opacity="0.3"/>
+  <!-- Sombra -->
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="#E0C88A" opacity="0.3"/>
+  <!-- Cuerpo -->
+  <ellipse cx="60" cy="72" rx="32" ry="30" fill="#FFD54F"/>
+  <!-- Ala izquierda (juntitas como rezando) -->
+  <ellipse cx="42" cy="68" rx="10" ry="16" fill="#FFCA28" transform="rotate(10 42 68)"/>
+  <ellipse cx="42" cy="68" rx="7" ry="12" fill="#FFD54F" transform="rotate(10 42 68)"/>
+  <!-- Ala derecha (juntitas como rezando) -->
+  <ellipse cx="78" cy="68" rx="10" ry="16" fill="#FFCA28" transform="rotate(-10 78 68)"/>
+  <ellipse cx="78" cy="68" rx="7" ry="12" fill="#FFD54F" transform="rotate(-10 78 68)"/>
+  <!-- Cabeza -->
+  <circle cx="60" cy="42" r="24" fill="#FFD54F"/>
+  <!-- Mejillas cálidas -->
+  <circle cx="42" cy="48" r="6" fill="#FFAB91" opacity="0.4"/>
+  <circle cx="78" cy="48" r="6" fill="#FFAB91" opacity="0.4"/>
+  <!-- Ojos cerrados en paz -->
+  <path d="M48 40 Q53 36 56 40" stroke="#5D4037" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M64 40 Q67 36 72 40" stroke="#5D4037" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Sonrisa suave -->
+  <path d="M54 50 Q60 55 66 50" stroke="#FF8F00" stroke-width="2" fill="#FF8F00" stroke-linecap="round"/>
+  <!-- Patitas -->
+  <path d="M48 98 L44 108 M48 98 L48 108 M48 98 L52 108" stroke="#FF8F00" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M72 98 L68 108 M72 98 L72 108 M72 98 L76 108" stroke="#FF8F00" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Copete -->
+  <ellipse cx="60" cy="22" rx="4" ry="6" fill="#FFCA28"/>
+  <!-- Halo / aureola -->
+  <ellipse cx="60" cy="16" rx="14" ry="4" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.6"/>
+  <!-- Estrellitas de gratitud -->
+  <path d="M28 30 L30 26 L32 30 L28 28 L32 28Z" fill="#FFD700" opacity="0.5"/>
+  <path d="M88 30 L90 26 L92 30 L88 28 L92 28Z" fill="#FFD700" opacity="0.5"/>
+  <path d="M25 50 L27 46 L29 50 L25 48 L29 48Z" fill="#FFD700" opacity="0.4"/>
+</svg>

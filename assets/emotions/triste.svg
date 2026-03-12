@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Pollito Triste - Bajo tus Alas -->
+  <!-- Sombra -->
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="#E0C88A" opacity="0.3"/>
+  <!-- Cuerpo -->
+  <ellipse cx="60" cy="72" rx="32" ry="30" fill="#FFD54F"/>
+  <!-- Ala izquierda (caído) -->
+  <ellipse cx="28" cy="75" rx="13" ry="18" fill="#FFCA28" transform="rotate(-5 28 75)"/>
+  <ellipse cx="28" cy="75" rx="9" ry="14" fill="#FFD54F" transform="rotate(-5 28 75)"/>
+  <!-- Ala derecha (caído) -->
+  <ellipse cx="92" cy="75" rx="13" ry="18" fill="#FFCA28" transform="rotate(5 92 75)"/>
+  <ellipse cx="92" cy="75" rx="9" ry="14" fill="#FFD54F" transform="rotate(5 92 75)"/>
+  <!-- Cabeza -->
+  <circle cx="60" cy="42" r="24" fill="#FFD54F"/>
+  <!-- Mejillas tristes -->
+  <circle cx="42" cy="50" r="5" fill="#90CAF9" opacity="0.4"/>
+  <circle cx="78" cy="50" r="5" fill="#90CAF9" opacity="0.4"/>
+  <!-- Ojos tristes (redondos con brillo) -->
+  <circle cx="52" cy="38" r="4.5" fill="#5D4037"/>
+  <circle cx="53" cy="37" r="1.5" fill="white"/>
+  <circle cx="68" cy="38" r="4.5" fill="#5D4037"/>
+  <circle cx="69" cy="37" r="1.5" fill="white"/>
+  <!-- Cejas tristes -->
+  <path d="M47 32 Q52 30 56 33" stroke="#5D4037" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M64 33 Q68 30 73 32" stroke="#5D4037" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Pico triste -->
+  <path d="M55 52 Q60 49 65 52" fill="#FF8F00" stroke="#FF8F00" stroke-width="1" stroke-linejoin="round"/>
+  <!-- Lágrima -->
+  <path d="M52 44 Q50 50 52 52" stroke="#64B5F6" stroke-width="2" fill="#90CAF9" stroke-linecap="round"/>
+  <!-- Patitas -->
+  <path d="M48 98 L44 108 M48 98 L48 108 M48 98 L52 108" stroke="#FF8F00" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M72 98 L68 108 M72 98 L72 108 M72 98 L76 108" stroke="#FF8F00" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Copete (caído) -->
+  <ellipse cx="58" cy="22" rx="4" ry="6" fill="#FFCA28" transform="rotate(-10 58 22)"/>
+</svg>

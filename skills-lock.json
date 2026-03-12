@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "flutter-navigation": {
+      "source": "D:\\Aplicaciones MOBILES\\refugio_de_paz\\mad-agents-skills",
+      "sourceType": "local",
+      "computedHash": "13710dcf3d57baa60872c1fefe7b5f686796d173331be4964a77766508c468db"
+    },
+    "flutter-riverpod-expert": {
+      "source": "D:\\Aplicaciones MOBILES\\refugio_de_paz\\dotfiles",
+      "sourceType": "local",
+      "computedHash": "1c6906245c711286fbf76d3723979a5621bb8905087c8708f23c0ca6b99a1f2b"
+    },
+    "mobile-design": {
+      "source": "D:\\Aplicaciones MOBILES\\refugio_de_paz\\antigravity-awesome-skills",
+      "sourceType": "local",
+      "computedHash": "63843b274e951c940fcd408ba39a8800489fe0b9eeff4fe6bda39478bc4f662d"
+    },
+    "mobile-developer": {
+      "source": "D:\\Aplicaciones MOBILES\\refugio_de_paz\\ai-dev-standards",
+      "sourceType": "local",
+      "computedHash": "d0920fc7a5d128c964827498d86a28094ff99acbf61a3f8d99ef464d6e1805da"
+    }
+  }
+}

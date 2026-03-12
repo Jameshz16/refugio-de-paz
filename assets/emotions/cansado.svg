@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Pollito Cansado - Bajo tus Alas -->
+  <!-- Sombra -->
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="#E0C88A" opacity="0.3"/>
+  <!-- Cuerpo (ligeramente inclinado) -->
+  <ellipse cx="60" cy="74" rx="32" ry="28" fill="#FFD54F"/>
+  <!-- Ala izquierda (caída/relajada) -->
+  <ellipse cx="26" cy="78" rx="12" ry="16" fill="#FFCA28" transform="rotate(5 26 78)"/>
+  <ellipse cx="26" cy="78" rx="8" ry="12" fill="#FFD54F" transform="rotate(5 26 78)"/>
+  <!-- Ala derecha (caída/relajada) -->
+  <ellipse cx="94" cy="78" rx="12" ry="16" fill="#FFCA28" transform="rotate(-5 94 78)"/>
+  <ellipse cx="94" cy="78" rx="8" ry="12" fill="#FFD54F" transform="rotate(-5 94 78)"/>
+  <!-- Cabeza (ligeramente inclinada) -->
+  <circle cx="60" cy="44" r="24" fill="#FFD54F"/>
+  <!-- Mejillas -->
+  <circle cx="42" cy="50" r="5" fill="#FFAB91" opacity="0.3"/>
+  <circle cx="78" cy="50" r="5" fill="#FFAB91" opacity="0.3"/>
+  <!-- Ojos cansados (entrecerrados) -->
+  <path d="M48 40 L57 40" stroke="#5D4037" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M63 40 L72 40" stroke="#5D4037" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Párpados caídos -->
+  <path d="M48 38 Q52 36 57 38" stroke="#FFCA28" stroke-width="3" fill="#FFCA28" stroke-linecap="round"/>
+  <path d="M63 38 Q67 36 72 38" stroke="#FFCA28" stroke-width="3" fill="#FFCA28" stroke-linecap="round"/>
+  <!-- Pico bostezando -->
+  <ellipse cx="60" cy="52" rx="4" ry="5" fill="#FF8F00"/>
+  <ellipse cx="60" cy="52" rx="2.5" ry="3" fill="#E65100"/>
+  <!-- ZZZ dormido -->
+  <text x="78" y="26" font-family="Arial" font-weight="bold" font-size="10" fill="#90A4AE" opacity="0.6">z</text>
+  <text x="85" y="20" font-family="Arial" font-weight="bold" font-size="12" fill="#90A4AE" opacity="0.5">z</text>
+  <text x="93" y="13" font-family="Arial" font-weight="bold" font-size="14" fill="#90A4AE" opacity="0.4">z</text>
+  <!-- Patitas -->
+  <path d="M48 98 L44 108 M48 98 L48 108 M48 98 L52 108" stroke="#FF8F00" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M72 98 L68 108 M72 98 L72 108 M72 98 L76 108" stroke="#FF8F00" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Copete (caído) -->
+  <ellipse cx="57" cy="23" rx="4" ry="5" fill="#FFCA28" transform="rotate(-20 57 23)"/>
+</svg>

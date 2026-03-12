@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Pollito Temeroso - Bajo tus Alas -->
+  <!-- Sombra -->
+  <ellipse cx="60" cy="108" rx="28" ry="5" fill="#E0C88A" opacity="0.3"/>
+  <!-- Cuerpo (encogido) -->
+  <ellipse cx="60" cy="74" rx="30" ry="28" fill="#FFD54F"/>
+  <!-- Ala izquierda (abrazándose) -->
+  <ellipse cx="38" cy="70" rx="12" ry="18" fill="#FFCA28" transform="rotate(20 38 70)"/>
+  <ellipse cx="38" cy="70" rx="8" ry="14" fill="#FFD54F" transform="rotate(20 38 70)"/>
+  <!-- Ala derecha (abrazándose) -->
+  <ellipse cx="82" cy="70" rx="12" ry="18" fill="#FFCA28" transform="rotate(-20 82 70)"/>
+  <ellipse cx="82" cy="70" rx="8" ry="14" fill="#FFD54F" transform="rotate(-20 82 70)"/>
+  <!-- Cabeza -->
+  <circle cx="60" cy="42" r="24" fill="#FFD54F"/>
+  <!-- Mejillas pálidas -->
+  <circle cx="42" cy="48" r="5" fill="#FFCC80" opacity="0.4"/>
+  <circle cx="78" cy="48" r="5" fill="#FFCC80" opacity="0.4"/>
+  <!-- Ojos muy grandes y asustados -->
+  <circle cx="52" cy="38" r="7" fill="white"/>
+  <circle cx="52" cy="40" r="4" fill="#5D4037"/>
+  <circle cx="53" cy="39" r="1.5" fill="white"/>
+  <circle cx="68" cy="38" r="7" fill="white"/>
+  <circle cx="68" cy="40" r="4" fill="#5D4037"/>
+  <circle cx="69" cy="39" r="1.5" fill="white"/>
+  <!-- Cejas asustadas -->
+  <path d="M45 28 Q50 25 57 30" stroke="#5D4037" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M63 30 Q70 25 75 28" stroke="#5D4037" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Pico abierto asustado -->
+  <ellipse cx="60" cy="52" rx="3.5" ry="4" fill="#FF8F00"/>
+  <ellipse cx="60" cy="53" rx="2" ry="2.5" fill="#E65100"/>
+  <!-- Líneas de susto -->
+  <path d="M30 25 L25 20" stroke="#BDBDBD" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <path d="M28 32 L22 30" stroke="#BDBDBD" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <path d="M90 25 L95 20" stroke="#BDBDBD" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <path d="M92 32 L98 30" stroke="#BDBDBD" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <!-- Patitas (juntitas) -->
+  <path d="M52 98 L48 108 M52 98 L52 108 M52 98 L56 108" stroke="#FF8F00" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M68 98 L64 108 M68 98 L68 108 M68 98 L72 108" stroke="#FF8F00" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Copete erizado de miedo -->
+  <ellipse cx="55" cy="20" rx="3" ry="7" fill="#FFCA28" transform="rotate(-25 55 20)"/>
+  <ellipse cx="60" cy="18" rx="3" ry="8" fill="#FFCA28"/>
+  <ellipse cx="65" cy="20" rx="3" ry="7" fill="#FFCA28" transform="rotate(25 65 20)"/>
+</svg>
